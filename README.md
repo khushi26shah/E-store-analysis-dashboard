@@ -5,6 +5,7 @@ This project presents an interactive Ecommerce Sales Dashboard created using Pow
 
 The dashboard provides insights into key business metrics such as total sales, profit, quantity sold, and average order value (AOV), helping users understand business performance through data visualization.
 
+
 ---
 
 ## 📈 Key Metrics
@@ -60,12 +61,12 @@ Identifies top customers contributing to total revenue.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 The dataset used in this project was sourced from Kaggle and used for educational and portfolio purposes.
 
 ---
 
-## 📚 Learning Source
+##  Learning Source
 This dashboard was created by following a Power BI tutorial from YouTube.  
 The original tutorial helped guide the analysis and dashboard structure.
 
@@ -76,5 +77,11 @@ I customized the project by:
 
 ---
 
-## 🎯 Project Purpose
+##  Project Purpose
 This project is part of my data analytics learning journey and portfolio, demonstrating my ability to build interactive dashboards and present business insights using Power BI.
+
+---
+
+
+## 📷 Dashboard Preview
+https://github.com/khushi26shah/E-store-analysis-dashboard
