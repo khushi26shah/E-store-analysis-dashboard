@@ -84,4 +84,4 @@ This project is part of my data analytics learning journey and portfolio, demons
 
 
 ## 📷 Dashboard Preview
-https://github.com/khushi26shah/E-store-analysis-dashboard
+](https://github.com/khushi26shah/E-store-analysis-dashboard/blob/main/powerbi-ecommerce-dashboard.png)
