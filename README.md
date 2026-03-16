@@ -1,5 +1,8 @@
 # 📊 Ecommerce Sales Dashboard (Power BI)
 
+![Ecommerce Sales Dashboard](powerbi-ecommerce-dashboard.png)
+
+
 ##  Project Overview
 This project presents an interactive Ecommerce Sales Dashboard created using Power BI to analyze sales performance, profit trends, customer behavior, and payment patterns.
 
